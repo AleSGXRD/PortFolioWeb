@@ -1,0 +1,19 @@
+{
+    "projects" :
+    [
+        {
+            "link" : "https://yourguitartabs.netlify.app/",
+            "tittle" : "GuitarTab",
+            "description" : "¡Sitio web para aprender a tocar la guitarra con múltiples de tablaturas gratis!",
+            "image" : "/GuitarTabs 1.png",
+            "technologies" : ["HTML" , "CSS", "JS", "BootStrap"]
+        },
+        {
+            "link" : "https://reelsxrd.netlify.app/",
+            "tittle" : "Reels",
+            "description" : "App para obtener números aleatorios mediante reels modificables.",
+            "image" : "/Reels.png",
+            "technologies" : ["React" , "Tailwind"]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+
+
+.card-profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    grid-column: auto;
+    border-radius: 25px;
+    background: var(--color-secondary);
+    box-shadow: 0px 0px 7px 0px var(--color-primary);
+    padding: 50px;
+    gap: 25px;
+  }
+  .profile-shape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-primary);
+  
+    width: 240px;
+    height: 240px;
+    border-radius: 100px;
+  }
+  .profile-shape-rombo{
+    background: var(--color-secondary);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    width: 200px;
+    height: 200px;
+    border: 5px solid var(--color-primary);
+    border-radius: 10px;
+  
+    transform: rotateZ(45deg);
+    overflow: hidden;
+  }
+  
+  .profile-shape-rombo img{
+    width: 145%;
+    height: 145%;
+  
+    transform: rotateZ(-45deg);
+  }
+  @media screen and (width < 480px) {
+    p.profile-name{
+      font-size: 28px;
+    }
+  }
+  .profile-name{
+    font-size:34px;
+    font-weight: bolder;
+  }
+  .profile-role{
+    font-size: 24px;
+    font-weight: lighter;
+  }
+  .profile-social-media{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+    width: 80%;
+    gap: 15px;
+  }
+  .site{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    width: 50px;
+    height: 50px;
+  
+    border-radius: 15px;
+    box-shadow: 0px 0px 3px 0px var(--color-primary);
+  
+  }
+  .site:hover{
+    box-shadow: 0px 0px 7px 1px var(--color-primary);
+  }
+  .site svg{
+    width: 32px;
+    height: 32px;
+  
+    color: var(--color-primary);
+  }
+
