@@ -2,11 +2,11 @@
     "projects" :
     [
         {
-            "link" : "https://yourguitartabs.netlify.app/",
-            "tittle" : "GuitarTab",
-            "description" : "¡Sitio web para aprender a tocar la guitarra con múltiples de tablaturas gratis!",
-            "image" : "/GuitarTabs 1.png",
-            "technologies" : ["HTML" , "CSS", "JS", "BootStrap"]
+            "link" : "https://github.com/AleSGXRD/Repair-Workshop-App",
+            "tittle" : "Repair Workshop App",
+            "description" : "App para ayudar a agilizar el proceso a un taller de reparaciones.",
+            "image" : "/WorkShopApp.png",
+            "technologies" : ["Angular", "TS", "BootStrap", "NodeJS", "Prisma"]
         },
         {
             "link" : "https://reelsxrd.netlify.app/",
@@ -14,6 +14,14 @@
             "description" : "App para obtener números aleatorios mediante reels modificables.",
             "image" : "/Reels.png",
             "technologies" : ["React" , "Tailwind"]
+        },
+        {
+            "link" : "https://yourguitartabs.netlify.app/",
+            "tittle" : "GuitarTab",
+            "description" : "¡Sitio web para aprender a tocar la guitarra con múltiples de tablaturas gratis!",
+            "image" : "/GuitarTabs 1.png",
+            "technologies" : ["HTML" , "CSS", "JS", "BootStrap"]
         }
+        
     ]
 }

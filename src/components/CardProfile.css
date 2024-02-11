@@ -11,6 +11,7 @@
     background: var(--color-secondary);
     box-shadow: 0px 0px 7px 0px var(--color-primary);
     padding: 50px;
+    width: 100%;
     gap: 25px;
   }
   .profile-shape{
@@ -75,6 +76,7 @@
   
     border-radius: 15px;
     box-shadow: 0px 0px 3px 0px var(--color-primary);
+    transition: 0.2s;
   
   }
   .site:hover{
