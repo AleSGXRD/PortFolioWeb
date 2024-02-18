@@ -24,10 +24,7 @@ function App() {
           <section  style={{flexGrow: 100}}>
             <div className="card">
               <p className='tittle'>Sobre mi</p>
-                <p>¡Hola!  Soy Alejandro Sánchez González, de Cuba. 
-                  Estudiante de Ingeniería Informática, sin experiencia laboral pero,
-                  con mucha experiencia en el mundo de la programación y a la vez muchas 
-                  ganas de empezar a aplicar y aprovechar mis habilidades en un espacio laboral.
+                <p>¡Hola! Soy Alejandro Sánchez González, de Cuba. Soy un Desarrollador Frontend apasionado y creativo con más de 2 años de experiencia y actualmente estoy cursando mi licenciatura en Ingeniería Informática. Me encanta aprender cosas nuevas y compartir mis conocimientos con los demás.
                 </p>
             </div>
           </section>
