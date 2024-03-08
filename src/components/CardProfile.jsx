@@ -1,5 +1,5 @@
 import './CardProfile.css'
-import profileIMG from '../assets/profile.jpg'
+import profileIMG from '../assets/profile.jpeg'
 
 function CardProfile(){
     return(
